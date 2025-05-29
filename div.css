@@ -1,0 +1,28 @@
+.search_box{
+  display: block;
+
+}
+.video_1stats{
+  width: 300px;
+  display: inline-block;
+}
+.thumbnail_1 {
+  width: 300px;
+  display: inline-block;
+}
+.video_1title{
+  font-family: arial;
+  font-weight: bold;
+}
+.video_2stats{
+  display: inline-block;
+}
+.thumbnail_2 {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+div{
+  vertical-align: top;
+  margin-right: 10px;
+}
