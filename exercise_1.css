@@ -1,0 +1,50 @@
+.name_1{
+    display: block;
+    font-size: 18px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    margin-bottom: 5px;
+}
+.name_2{
+    display: block;
+    font-size: 18px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+}
+.C_F{
+    width: 215px;
+    font-family: arial;
+    display: inline-block;
+    vertical-align: middle;
+}
+button{
+    cursor: pointer;
+    padding: 3px 10px;
+}
+.google_img{
+    display: block;
+    width: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 600px;
+}
+.google_serach_box{
+    display: block;
+    width: 450px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    height: 28px;
+    border:none;
+    margin-top: 2px ;
+    margin-left: 490px;
+    font-family: arial;
+    padding-left: 15px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    font-size: 15px;
+    
+}
